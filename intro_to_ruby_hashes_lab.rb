@@ -1,5 +1,5 @@
 def new_hash
- groceries = ["milk", "eggs", "bread"]
+(new_hash).to eq({})
 end
 
 def my_hash
